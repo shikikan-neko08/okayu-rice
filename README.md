@@ -12,7 +12,8 @@ Terminal : kitty
 Shell : zsh     
 
 # Installation 
-clone this repository then copy all .config files to your home directory and copy the theme into home directory.      
+clone this repository then copy all .config files to your home directory and copy the theme into home directory.        
+for icon installation you can use papirus-icon-theme with [papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) to change the icon theme
 
 # Dependecies
  * [rofi](https://github.com/davatorium/rofi)     

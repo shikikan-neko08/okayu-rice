@@ -21,7 +21,7 @@ clone this repository then copy all .config files to your home directory and cop
  * [Polybar](https://github.com/polybar/polybar)     
  * nitrogen     
  * Font Awesome    
- * material fonts (included
+ * material fonts (included)
 
 # todo     
 * add clearine
